@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "gtnsimon",
+      "title": "Bonjour à tou.te.s !",
+      "body": "Bienvenue sur cet espace d'échanges.",
+      "createdAt": "2022-02-14T14:32:07.530Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "body": "Bonjour et merci d'avoir mis en place cette application !",
+      "createdAt": "2022-02-14T14:32:22.866Z"
+    }
+  ]
+}
