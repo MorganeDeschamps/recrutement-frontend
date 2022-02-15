@@ -6,6 +6,13 @@
       "title": "Bonjour à tou.te.s !",
       "body": "Bienvenue sur cet espace d'échanges.",
       "createdAt": "2022-02-14T14:32:07.530Z"
+    },
+    {
+      "id": "2",
+      "author": "Morgane",
+      "title": "Test",
+      "body": "This is a test woop woop",
+      "createdAt": "2022-02-15T01:12:47.031Z"
     }
   ],
   "comments": [
@@ -14,6 +21,12 @@
       "postId": 1,
       "body": "Bonjour et merci d'avoir mis en place cette application !",
       "createdAt": "2022-02-14T14:32:22.866Z"
+    },
+    {
+      "id": "2",
+      "body": "And this is a test comment ",
+      "createdAt": "2022-02-15T01:16:30.130Z",
+      "postId": "2"
     }
   ]
 }
